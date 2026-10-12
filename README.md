@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Dmytro. I'm a Site Reliability Engineer based near Toronto.
 
-<!--
-**dbrezhniev/dbrezhniev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**At work**
+- Kubernetes (EKS) and AWS, managed with Terraform
+- CI/CD on GitHub Actions
+- Monitoring and on-call with Datadog and Incident.io
 
-Here are some ideas to get you started:
+**At home**
+- A Proxmox homelab with TrueNAS for storage
+- Self-hosted apps behind Traefik, deployed with Docker Compose from Git
+- Frigate for cameras, and a box for running local LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning**
+- Go
